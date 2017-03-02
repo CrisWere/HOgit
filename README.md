@@ -1,4 +1,4 @@
-#CrisWere
+#CrisWere - cristina.werenitzky@gmail.com
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
