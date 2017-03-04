@@ -121,3 +121,17 @@ y el push
 ```
 git push
 ```
+
+
+COMANDOS UTILIZADOS
+	git clone URL_del_repo_a_clonar  !Para clonar un repo
+	git status	!Para ver el estado del repo
+	git add fileName.ext  !Para agregar al staging area un file
+	git add . !Para agregar al staging area todos los files
+	git commit -m "Aqui va el comentario del commit"   !Para guardar en el repo os cambios de los archivos en el stagin area
+ 	git branch branchName  !Para crear nueva branch
+	git branch -a  !Para ver en que branch estoy	
+	git checkout branchName !Para pasar a esa branch
+	git merge --no-ff branchName !Para hacer merge de 2 branchs. Copio desde branchName hacia la branch donde estoy parada
+	git log --oneline --graph  !Para ver el historial del repo
+	git push -u origin branchName  !Para subir las branches del repo local al repo de github
